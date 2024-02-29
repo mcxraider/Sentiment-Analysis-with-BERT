@@ -1,3 +1,4 @@
 # it1244-final-project
 ---
-Choosing between Sentiment Analysis and Time series Analysis 
+Sentiment Analysis project on Movie review and ratings (Textual data)
+
