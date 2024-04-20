@@ -43,7 +43,7 @@ Our models achieved the following accuracy:
 | Best ML Model (Logistic Regression with TF-IDF) | 91.0%  |
 | Best DL Model (DistilBERT with finetuning) | 93.0%    |
 
-Detailed performance metrics including precision, recall, and F1-score are available in the results section of this repository.
+Detailed performance metrics including precision, recall, and F1-score are available in the results section of the project report in this repository.
 
 ## Usage
 To replicate our findings or use the models:
